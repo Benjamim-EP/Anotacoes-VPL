@@ -1,0 +1,385 @@
+{
+  "vaultName": "Vendas-Persuasão-etc",
+  "lastExport": 1726409126275,
+  "pluginVersion": "1.8.01",
+  "validBodyClasses": "publish css-settings-manager theme-dark show-inline-title show-ribbon",
+  "useCustomHeadContent": false,
+  "useCustomFavicon": false,
+  "files": [
+    "Livros/Brian Tracy/2004 - The Psychology of Selling_ Increase Your Sales Faster and Easier Than You Ever Thought Possible/1. O JOGO INTERNO DE VENDAS.md",
+    "Livros/Brian Tracy/2004 - The Psychology of Selling_ Increase Your Sales Faster and Easier Than You Ever Thought Possible/2. DEFINIR E ATINGIR TODAS AS SUAS METAS DE VENDAS.md",
+    "Livros/Brian Tracy/2004 - The Psychology of Selling_ Increase Your Sales Faster and Easier Than You Ever Thought Possible/Introdução.md",
+    "Livros/Julieta Mendes/Diálogos sobre a nova lei de licitações e contratações Lei 14.133/1. NOVA LEI DE LICITAÇÕESE CONTRATOS.md",
+    "Livros/Julieta Mendes/Diálogos sobre a nova lei de licitações e contratações Lei 14.133/2. AGENTE E COMISSÃO DE CONTRATAÇÃO - ATRIBUIÇÕES E RESPONSABILIDADES.md",
+    "Livros/Julieta Mendes/Diálogos sobre a nova lei de licitações e contratações Lei 14.133/3. A SUSTENTABILIDADE NA NOVA LEI DE LICITAÇÕES.md",
+    "Livros/Julieta Mendes/Diálogos sobre a nova lei de licitações e contratações Lei 14.133/4. NOVA LEI DE LICITAÇÕESE CONTRATOS - AS NOVAS COMPETÊNCIA.md",
+    "Livros/Julieta Mendes/Diálogos sobre a nova lei de licitações e contratações Lei 14.133/5. A inviabilidade de competição relativa na Nova Lei de Licitações e Contratos Administrativos.md",
+    "Livros/Julieta Mendes/Diálogos sobre a nova lei de licitações e contratações Lei 14.133/6. INEXIGIBILIDADE - SERVIÇOS  TÉCNICOS,  NOTÓRIA  ESPECIALIZAÇÃO  E A AUSÊNCIA DE  SINGULARIDADE.md",
+    "Livros/Julieta Mendes/Diálogos sobre a nova lei de licitações e contratações Lei 14.133/7. A DISPENSA PELO VALOR NA LEI 14.133-2021.md",
+    "Livros/Julieta Mendes/Diálogos sobre a nova lei de licitações e contratações Lei 14.133/8. Um ensaio sobre “obras  comuns de engenharia”.md",
+    "Tópicos Específicos/1. Na lei 14.133, quais são as possiveis modalidades de licitação e em quais uma mei pode participar.md",
+    "Tópicos Específicos/2. pregão na lei 14.133-2021.md",
+    "Videos/Rodolpho dos Anjos (Licitações)/AUTÔNOMO OU MEI PARA VENDER PARA O GOVERNO.md",
+    "Videos/Rodolpho dos Anjos (Licitações)/COMO LIDAR COM O JOGO DO PREÇO NAS LICITAÇÕES.md",
+    "Videos/Rodolpho dos Anjos (Licitações)/Como vender para o governo com licitações e faturar milhões - Podcast EAG 156.md",
+    "Videos/Rodolpho dos Anjos (Licitações)/Como Vender para o Governo em 2024.md",
+    "Videos/Rodolpho dos Anjos (Licitações)/MEI - COMO PARTICIPAR DE LICITAÇÕES.md",
+    "Videos/Rodolpho dos Anjos (Licitações)/MEI - COMO PRESTAR SERVIÇOS PARA PREFEITURAS.md",
+    "Videos/Rodolpho dos Anjos (Licitações)/PODCAST DINHEIRO NA MESA - COMO VENDER PARA O GOVERNO SEM DINHEIRO.md",
+    "Videos/Rodolpho dos Anjos (Licitações)/TUDO SOBRE A DISPENSA ELETRÔNICA PARA 2024.md",
+    "lib/scripts/graph-wasm.wasm",
+    "lib/fonts/94f2f163d4b698242fef.otf",
+    "lib/fonts/72505e6a122c6acd5471.woff2",
+    "lib/fonts/2d5198822ab091ce4305.woff2",
+    "lib/fonts/c8ba52b05a9ef10f4758.woff2",
+    "lib/fonts/cb10ffd7684cd9836a05.woff2",
+    "lib/fonts/b5f0f109bc88052d4000.woff2",
+    "lib/fonts/cbe0ae49c52c920fd563.woff2",
+    "lib/fonts/535a6cf662596b3bd6a6.woff2",
+    "lib/fonts/70cc7ff27245e82ad414.ttf",
+    "lib/fonts/454577c22304619db035.ttf",
+    "lib/fonts/52ac8f3034507f1d9e53.ttf",
+    "lib/fonts/05b618077343fbbd92b7.ttf",
+    "lib/fonts/4bb6ac751d1c5478ff3a.woff2",
+    "lib/media/874d8b8e340f75575caa.svg",
+    "lib/html/file-tree.html",
+    "lib/scripts/webpage.js",
+    "lib/scripts/graph-view.js",
+    "lib/scripts/graph-wasm.js",
+    "lib/scripts/graph-render-worker.js",
+    "lib/scripts/tinycolor.js",
+    "lib/scripts/pixi.js",
+    "lib/scripts/minisearch.js",
+    "lib/media/favicon.png",
+    "lib/scripts/graph-data.js",
+    "lib/styles/obsidian.css",
+    "lib/styles/global-variable-styles.css",
+    "lib/styles/main-styles.css"
+  ],
+  "mainDependencies": [
+    "lib/scripts/graph-wasm.wasm",
+    "lib/fonts/94f2f163d4b698242fef.otf",
+    "lib/fonts/72505e6a122c6acd5471.woff2",
+    "lib/fonts/2d5198822ab091ce4305.woff2",
+    "lib/fonts/c8ba52b05a9ef10f4758.woff2",
+    "lib/fonts/cb10ffd7684cd9836a05.woff2",
+    "lib/fonts/b5f0f109bc88052d4000.woff2",
+    "lib/fonts/cbe0ae49c52c920fd563.woff2",
+    "lib/fonts/535a6cf662596b3bd6a6.woff2",
+    "lib/fonts/70cc7ff27245e82ad414.ttf",
+    "lib/fonts/454577c22304619db035.ttf",
+    "lib/fonts/52ac8f3034507f1d9e53.ttf",
+    "lib/fonts/05b618077343fbbd92b7.ttf",
+    "lib/fonts/4bb6ac751d1c5478ff3a.woff2",
+    "lib/media/874d8b8e340f75575caa.svg",
+    "lib/html/file-tree.html",
+    "lib/scripts/webpage.js",
+    "lib/scripts/graph-view.js",
+    "lib/scripts/graph-wasm.js",
+    "lib/scripts/graph-render-worker.js",
+    "lib/scripts/tinycolor.js",
+    "lib/scripts/pixi.js",
+    "lib/scripts/minisearch.js",
+    "lib/media/favicon.png",
+    "lib/scripts/graph-data.js",
+    "lib/styles/obsidian.css",
+    "lib/styles/global-variable-styles.css",
+    "lib/styles/main-styles.css"
+  ],
+  "fileInfo": {
+    "Livros/Brian Tracy/2004 - The Psychology of Selling_ Increase Your Sales Faster and Easier Than You Ever Thought Possible/1. O JOGO INTERNO DE VENDAS.md": {
+      "modifiedTime": 1726409126275,
+      "sourceSize": 29229,
+      "exportedPath": "livros/brian-tracy/2004-the-psychology-of-selling_-increase-your-sales-faster-and-easier-than-you-ever-thought-possible/1.-o-jogo-interno-de-vendas.html",
+      "dependencies": []
+    },
+    "Livros/Brian Tracy/2004 - The Psychology of Selling_ Increase Your Sales Faster and Easier Than You Ever Thought Possible/2. DEFINIR E ATINGIR TODAS AS SUAS METAS DE VENDAS.md": {
+      "modifiedTime": 1726409126275,
+      "sourceSize": 17181,
+      "exportedPath": "livros/brian-tracy/2004-the-psychology-of-selling_-increase-your-sales-faster-and-easier-than-you-ever-thought-possible/2.-definir-e-atingir-todas-as-suas-metas-de-vendas.html",
+      "dependencies": []
+    },
+    "Livros/Brian Tracy/2004 - The Psychology of Selling_ Increase Your Sales Faster and Easier Than You Ever Thought Possible/Introdução.md": {
+      "modifiedTime": 1726409126275,
+      "sourceSize": 5415,
+      "exportedPath": "livros/brian-tracy/2004-the-psychology-of-selling_-increase-your-sales-faster-and-easier-than-you-ever-thought-possible/introdução.html",
+      "dependencies": []
+    },
+    "Livros/Julieta Mendes/Diálogos sobre a nova lei de licitações e contratações Lei 14.133/1. NOVA LEI DE LICITAÇÕESE CONTRATOS.md": {
+      "modifiedTime": 1726409126275,
+      "sourceSize": 14226,
+      "exportedPath": "livros/julieta-mendes/diálogos-sobre-a-nova-lei-de-licitações-e-contratações-lei-14.133/1.-nova-lei-de-licitaçõese-contratos.html",
+      "dependencies": []
+    },
+    "Livros/Julieta Mendes/Diálogos sobre a nova lei de licitações e contratações Lei 14.133/2. AGENTE E COMISSÃO DE CONTRATAÇÃO - ATRIBUIÇÕES E RESPONSABILIDADES.md": {
+      "modifiedTime": 1726409126275,
+      "sourceSize": 9573,
+      "exportedPath": "livros/julieta-mendes/diálogos-sobre-a-nova-lei-de-licitações-e-contratações-lei-14.133/2.-agente-e-comissão-de-contratação-atribuições-e-responsabilidades.html",
+      "dependencies": []
+    },
+    "Livros/Julieta Mendes/Diálogos sobre a nova lei de licitações e contratações Lei 14.133/3. A SUSTENTABILIDADE NA NOVA LEI DE LICITAÇÕES.md": {
+      "modifiedTime": 1726409126275,
+      "sourceSize": 29443,
+      "exportedPath": "livros/julieta-mendes/diálogos-sobre-a-nova-lei-de-licitações-e-contratações-lei-14.133/3.-a-sustentabilidade-na-nova-lei-de-licitações.html",
+      "dependencies": []
+    },
+    "Livros/Julieta Mendes/Diálogos sobre a nova lei de licitações e contratações Lei 14.133/4. NOVA LEI DE LICITAÇÕESE CONTRATOS - AS NOVAS COMPETÊNCIA.md": {
+      "modifiedTime": 1726409126275,
+      "sourceSize": 32189,
+      "exportedPath": "livros/julieta-mendes/diálogos-sobre-a-nova-lei-de-licitações-e-contratações-lei-14.133/4.-nova-lei-de-licitaçõese-contratos-as-novas-competência.html",
+      "dependencies": []
+    },
+    "Livros/Julieta Mendes/Diálogos sobre a nova lei de licitações e contratações Lei 14.133/5. A inviabilidade de competição relativa na Nova Lei de Licitações e Contratos Administrativos.md": {
+      "modifiedTime": 1726409126275,
+      "sourceSize": 9955,
+      "exportedPath": "livros/julieta-mendes/diálogos-sobre-a-nova-lei-de-licitações-e-contratações-lei-14.133/5.-a-inviabilidade-de-competição-relativa-na-nova-lei-de-licitações-e-contratos-administrativos.html",
+      "dependencies": []
+    },
+    "Livros/Julieta Mendes/Diálogos sobre a nova lei de licitações e contratações Lei 14.133/6. INEXIGIBILIDADE - SERVIÇOS  TÉCNICOS,  NOTÓRIA  ESPECIALIZAÇÃO  E A AUSÊNCIA DE  SINGULARIDADE.md": {
+      "modifiedTime": 1726409126275,
+      "sourceSize": 8557,
+      "exportedPath": "livros/julieta-mendes/diálogos-sobre-a-nova-lei-de-licitações-e-contratações-lei-14.133/6.-inexigibilidade-serviços-técnicos,-notória-especialização-e-a-ausência-de-singularidade.html",
+      "dependencies": []
+    },
+    "Livros/Julieta Mendes/Diálogos sobre a nova lei de licitações e contratações Lei 14.133/7. A DISPENSA PELO VALOR NA LEI 14.133-2021.md": {
+      "modifiedTime": 1726409126275,
+      "sourceSize": 15155,
+      "exportedPath": "livros/julieta-mendes/diálogos-sobre-a-nova-lei-de-licitações-e-contratações-lei-14.133/7.-a-dispensa-pelo-valor-na-lei-14.133-2021.html",
+      "dependencies": []
+    },
+    "Livros/Julieta Mendes/Diálogos sobre a nova lei de licitações e contratações Lei 14.133/8. Um ensaio sobre “obras  comuns de engenharia”.md": {
+      "modifiedTime": 1726409126275,
+      "sourceSize": 8667,
+      "exportedPath": "livros/julieta-mendes/diálogos-sobre-a-nova-lei-de-licitações-e-contratações-lei-14.133/8.-um-ensaio-sobre-“obras-comuns-de-engenharia”.html",
+      "dependencies": []
+    },
+    "Tópicos Específicos/1. Na lei 14.133, quais são as possiveis modalidades de licitação e em quais uma mei pode participar.md": {
+      "modifiedTime": 1726409126275,
+      "sourceSize": 2961,
+      "exportedPath": "tópicos-específicos/1.-na-lei-14.133,-quais-são-as-possiveis-modalidades-de-licitação-e-em-quais-uma-mei-pode-participar.html",
+      "dependencies": []
+    },
+    "Tópicos Específicos/2. pregão na lei 14.133-2021.md": {
+      "modifiedTime": 1726409126275,
+      "sourceSize": 6792,
+      "exportedPath": "tópicos-específicos/2.-pregão-na-lei-14.133-2021.html",
+      "dependencies": []
+    },
+    "Videos/Rodolpho dos Anjos (Licitações)/AUTÔNOMO OU MEI PARA VENDER PARA O GOVERNO.md": {
+      "modifiedTime": 1726409126275,
+      "sourceSize": 3048,
+      "exportedPath": "videos/rodolpho-dos-anjos-(licitações)/autônomo-ou-mei-para-vender-para-o-governo.html",
+      "dependencies": []
+    },
+    "Videos/Rodolpho dos Anjos (Licitações)/COMO LIDAR COM O JOGO DO PREÇO NAS LICITAÇÕES.md": {
+      "modifiedTime": 1726409126275,
+      "sourceSize": 4047,
+      "exportedPath": "videos/rodolpho-dos-anjos-(licitações)/como-lidar-com-o-jogo-do-preço-nas-licitações.html",
+      "dependencies": []
+    },
+    "Videos/Rodolpho dos Anjos (Licitações)/Como vender para o governo com licitações e faturar milhões - Podcast EAG 156.md": {
+      "modifiedTime": 1726409126275,
+      "sourceSize": 16407,
+      "exportedPath": "videos/rodolpho-dos-anjos-(licitações)/como-vender-para-o-governo-com-licitações-e-faturar-milhões-podcast-eag-156.html",
+      "dependencies": []
+    },
+    "Videos/Rodolpho dos Anjos (Licitações)/Como Vender para o Governo em 2024.md": {
+      "modifiedTime": 1726409126275,
+      "sourceSize": 3392,
+      "exportedPath": "videos/rodolpho-dos-anjos-(licitações)/como-vender-para-o-governo-em-2024.html",
+      "dependencies": []
+    },
+    "Videos/Rodolpho dos Anjos (Licitações)/MEI - COMO PARTICIPAR DE LICITAÇÕES.md": {
+      "modifiedTime": 1726409126275,
+      "sourceSize": 3393,
+      "exportedPath": "videos/rodolpho-dos-anjos-(licitações)/mei-como-participar-de-licitações.html",
+      "dependencies": []
+    },
+    "Videos/Rodolpho dos Anjos (Licitações)/MEI - COMO PRESTAR SERVIÇOS PARA PREFEITURAS.md": {
+      "modifiedTime": 1726409126275,
+      "sourceSize": 2834,
+      "exportedPath": "videos/rodolpho-dos-anjos-(licitações)/mei-como-prestar-serviços-para-prefeituras.html",
+      "dependencies": []
+    },
+    "Videos/Rodolpho dos Anjos (Licitações)/PODCAST DINHEIRO NA MESA - COMO VENDER PARA O GOVERNO SEM DINHEIRO.md": {
+      "modifiedTime": 1726409126275,
+      "sourceSize": 3910,
+      "exportedPath": "videos/rodolpho-dos-anjos-(licitações)/podcast-dinheiro-na-mesa-como-vender-para-o-governo-sem-dinheiro.html",
+      "dependencies": []
+    },
+    "Videos/Rodolpho dos Anjos (Licitações)/TUDO SOBRE A DISPENSA ELETRÔNICA PARA 2024.md": {
+      "modifiedTime": 1726409126275,
+      "sourceSize": 3191,
+      "exportedPath": "videos/rodolpho-dos-anjos-(licitações)/tudo-sobre-a-dispensa-eletrônica-para-2024.html",
+      "dependencies": []
+    },
+    "lib/scripts/graph-wasm.wasm": {
+      "modifiedTime": 1726409126275,
+      "sourceSize": 23377,
+      "exportedPath": "lib/scripts/graph-wasm.wasm",
+      "dependencies": []
+    },
+    "lib/fonts/94f2f163d4b698242fef.otf": {
+      "modifiedTime": 1726409126275,
+      "sourceSize": 66800,
+      "exportedPath": "lib/fonts/94f2f163d4b698242fef.otf",
+      "dependencies": []
+    },
+    "lib/fonts/72505e6a122c6acd5471.woff2": {
+      "modifiedTime": 1726409126275,
+      "sourceSize": 104232,
+      "exportedPath": "lib/fonts/72505e6a122c6acd5471.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/2d5198822ab091ce4305.woff2": {
+      "modifiedTime": 1726409126275,
+      "sourceSize": 104332,
+      "exportedPath": "lib/fonts/2d5198822ab091ce4305.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/c8ba52b05a9ef10f4758.woff2": {
+      "modifiedTime": 1726409126275,
+      "sourceSize": 98868,
+      "exportedPath": "lib/fonts/c8ba52b05a9ef10f4758.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/cb10ffd7684cd9836a05.woff2": {
+      "modifiedTime": 1726409126275,
+      "sourceSize": 106876,
+      "exportedPath": "lib/fonts/cb10ffd7684cd9836a05.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/b5f0f109bc88052d4000.woff2": {
+      "modifiedTime": 1726409126275,
+      "sourceSize": 105804,
+      "exportedPath": "lib/fonts/b5f0f109bc88052d4000.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/cbe0ae49c52c920fd563.woff2": {
+      "modifiedTime": 1726409126275,
+      "sourceSize": 106108,
+      "exportedPath": "lib/fonts/cbe0ae49c52c920fd563.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/535a6cf662596b3bd6a6.woff2": {
+      "modifiedTime": 1726409126275,
+      "sourceSize": 111708,
+      "exportedPath": "lib/fonts/535a6cf662596b3bd6a6.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/70cc7ff27245e82ad414.ttf": {
+      "modifiedTime": 1726409126275,
+      "sourceSize": 192740,
+      "exportedPath": "lib/fonts/70cc7ff27245e82ad414.ttf",
+      "dependencies": []
+    },
+    "lib/fonts/454577c22304619db035.ttf": {
+      "modifiedTime": 1726409126275,
+      "sourceSize": 161376,
+      "exportedPath": "lib/fonts/454577c22304619db035.ttf",
+      "dependencies": []
+    },
+    "lib/fonts/52ac8f3034507f1d9e53.ttf": {
+      "modifiedTime": 1726409126275,
+      "sourceSize": 191568,
+      "exportedPath": "lib/fonts/52ac8f3034507f1d9e53.ttf",
+      "dependencies": []
+    },
+    "lib/fonts/05b618077343fbbd92b7.ttf": {
+      "modifiedTime": 1726409126275,
+      "sourceSize": 155288,
+      "exportedPath": "lib/fonts/05b618077343fbbd92b7.ttf",
+      "dependencies": []
+    },
+    "lib/fonts/4bb6ac751d1c5478ff3a.woff2": {
+      "modifiedTime": 1726409126275,
+      "sourceSize": 7876,
+      "exportedPath": "lib/fonts/4bb6ac751d1c5478ff3a.woff2",
+      "dependencies": []
+    },
+    "lib/media/874d8b8e340f75575caa.svg": {
+      "modifiedTime": 1726409126275,
+      "sourceSize": 317,
+      "exportedPath": "lib/media/874d8b8e340f75575caa.svg",
+      "dependencies": []
+    },
+    "lib/html/file-tree.html": {
+      "modifiedTime": 1726409126275,
+      "sourceSize": 15660,
+      "exportedPath": "lib/html/file-tree.html",
+      "dependencies": []
+    },
+    "lib/scripts/webpage.js": {
+      "modifiedTime": 1726409126275,
+      "sourceSize": 47290,
+      "exportedPath": "lib/scripts/webpage.js",
+      "dependencies": []
+    },
+    "lib/scripts/graph-view.js": {
+      "modifiedTime": 1726409126275,
+      "sourceSize": 15519,
+      "exportedPath": "lib/scripts/graph-view.js",
+      "dependencies": []
+    },
+    "lib/scripts/graph-wasm.js": {
+      "modifiedTime": 1726409126275,
+      "sourceSize": 14021,
+      "exportedPath": "lib/scripts/graph-wasm.js",
+      "dependencies": []
+    },
+    "lib/scripts/graph-render-worker.js": {
+      "modifiedTime": 1726409126275,
+      "sourceSize": 5179,
+      "exportedPath": "lib/scripts/graph-render-worker.js",
+      "dependencies": []
+    },
+    "lib/scripts/tinycolor.js": {
+      "modifiedTime": 1726409126275,
+      "sourceSize": 29832,
+      "exportedPath": "lib/scripts/tinycolor.js",
+      "dependencies": []
+    },
+    "lib/scripts/pixi.js": {
+      "modifiedTime": 1726409126275,
+      "sourceSize": 449509,
+      "exportedPath": "lib/scripts/pixi.js",
+      "dependencies": []
+    },
+    "lib/scripts/minisearch.js": {
+      "modifiedTime": 1726409126275,
+      "sourceSize": 29422,
+      "exportedPath": "lib/scripts/minisearch.js",
+      "dependencies": []
+    },
+    "lib/media/favicon.png": {
+      "modifiedTime": 1726409126275,
+      "sourceSize": 1105,
+      "exportedPath": "lib/media/favicon.png",
+      "dependencies": []
+    },
+    "lib/scripts/graph-data.js": {
+      "modifiedTime": 1726409126275,
+      "sourceSize": 4161,
+      "exportedPath": "lib/scripts/graph-data.js",
+      "dependencies": []
+    },
+    "lib/styles/obsidian.css": {
+      "modifiedTime": 1726409126275,
+      "sourceSize": 130208,
+      "exportedPath": "lib/styles/obsidian.css",
+      "dependencies": []
+    },
+    "lib/styles/global-variable-styles.css": {
+      "modifiedTime": 1726409126275,
+      "sourceSize": 236,
+      "exportedPath": "lib/styles/global-variable-styles.css",
+      "dependencies": []
+    },
+    "lib/styles/main-styles.css": {
+      "modifiedTime": 1726409126275,
+      "sourceSize": 23130,
+      "exportedPath": "lib/styles/main-styles.css",
+      "dependencies": []
+    }
+  }
+}
